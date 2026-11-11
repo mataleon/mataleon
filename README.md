@@ -2,7 +2,7 @@
 
 **M.S. Information Technology Management / Cybersecurity  |  B.B.A. Business Administration & Marketing**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leon_Kiyonga_Ddungu-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-kiyonga-ddungu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leon_Kiyonga_Ddungu-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-kiyonga-ddungu-946b08252)
 [![GitHub](https://img.shields.io/badge/GitHub-mataleon-181717?style=flat&logo=github&logoColor=white)](https://github.com/mataleon)
 
 I build security operations tools, detection engineering pipelines, and AI-powered security automation. My specialty is **Microsoft Sentinel detection engineering with identity telemetry as a core signal source**. My work spans cloud security, SOC operations, identity threat detection, and healthcare compliance.
@@ -130,7 +130,7 @@ AI-assisted malware analysis environment for static and behavioral analysis of s
 
 ## Connect
 
-📬 [LinkedIn — Leon Kiyonga Ddungu](https://www.linkedin.com/in/leon-kiyonga-ddungu)
+📬 [LinkedIn — Leon Kiyonga Ddungu](https://www.linkedin.com/in/leon-kiyonga-ddungu-946b08252)
 💻 [GitHub — mataleon](https://github.com/mataleon)
 
 -----
