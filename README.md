@@ -5,9 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leon_Kiyonga_Ddungu-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-kiyonga-ddungu)
 [![GitHub](https://img.shields.io/badge/GitHub-mataleon-181717?style=flat&logo=github&logoColor=white)](https://github.com/mataleon)
 
-I build security operations tools, detection engineering pipelines, and AI-powered security automation. My work spans cloud security, SOC operations, identity threat detection, and healthcare compliance.
+I build security operations tools, detection engineering pipelines, and AI-powered security automation. My specialty is **Microsoft Sentinel detection engineering with identity telemetry as a core signal source**. My work spans cloud security, SOC operations, identity threat detection, and healthcare compliance.
 
-Currently focused on **Security Engineer** and **Cloud Security Analyst** roles.
+Currently focused on **Security Engineer**, **Detection Engineer** and **Cloud Security Analyst** roles.
 
 -----
 
@@ -42,6 +42,22 @@ Live honeypot exposed to the public internet. 200,000+ real RDP brute force atte
 End-to-end SOC simulation for a California state health agency. Covers phishing triage, identity & access security, automated IR playbooks, vulnerability management, and a HIPAA Security Risk Assessment with formal BIA and TRP documentation.
 
 `Microsoft Sentinel` `KQL` `HIPAA` `NIST 800-53` `Incident Response` `Vulnerability Management` `Cal-CSIRS`
+
+-----
+
+### 🧪 [SOC Lab — Detection Engineering Portfolio](https://github.com/mataleon/SOC-Lab-Detection-Engineering-Portfolio)
+
+Fully operational home SOC: pfSense + Snort IDS, an Active Directory domain controller, Wazuh XDR and an Ubuntu syslog forwarder connected through Azure Arc to Microsoft Sentinel, with Kali for attack simulation. Includes KQL detections, incident reports, root-cause analyses, runbooks and NIST 800-53 control mapping.
+
+`Microsoft Sentinel` `KQL` `Wazuh` `Snort` `pfSense` `Active Directory` `Azure Arc` `Incident Response`
+
+-----
+
+### 🔐 [VCBHN IAM Security Lab](https://github.com/mataleon/vcbhn-iam-security-lab)
+
+Identity & access management security operations for a fictional HIPAA-regulated behavioral health network: Python access-review automation with HIPAA-mapped risk rules, IAM anomaly KQL queries, a deployable Sentinel workbook, and provisioning/exception SOPs.
+
+`IAM` `Microsoft Sentinel` `KQL` `Python` `HIPAA` `NIST SP 800-66` `Access Reviews`
 
 -----
 
@@ -81,9 +97,11 @@ AI-assisted malware analysis environment for static and behavioral analysis of s
 
 |Domain           |Tools & Technologies                                             |
 |-----------------|-----------------------------------------------------------------|
-|SIEM / Detection |Microsoft Sentinel, KQL, Sigma Rules, Analytics Rules, Watchlists|
-|Cloud Security   |Microsoft Azure, Azure AD / Entra ID, NSG, Log Analytics         |
-|Identity Security|Active Directory, Kerberoasting, DCSync, Golden Ticket, Mimikatz |
+|SIEM / XDR       |Microsoft Sentinel, Defender XDR, Wazuh, Elastic Stack, KQL, Sigma Rules, Analytics Rules, Watchlists|
+|Cloud Security   |Microsoft Azure, Azure Arc, Log Analytics, NSG, AWS, GCP         |
+|Identity & Access|Microsoft Entra ID, Conditional Access, PIM, Access Reviews, IAM SOPs|
+|Network Security |pfSense, Snort IDS, Palo Alto (lab)                              |
+|AD Attack & Defense|Active Directory, Kerberoasting, DCSync, Golden Ticket, Mimikatz|
 |Incident Response|SOAR, Logic Apps, IR Playbooks, PICERL, Forensics Runbooks       |
 |Compliance       |HIPAA, NIST 800-53, Cal-CSIRS, BIA, TRP                          |
 |AI Security      |Claude API, LLM Injection Defense, AI-Assisted Triage            |
@@ -94,18 +112,19 @@ AI-assisted malware analysis environment for static and behavioral analysis of s
 
 ## Currently Building
 
-- ☁️ AWS Security Lab — GuardDuty, CloudTrail, S3 misconfiguration detection
-- 🔎 UEBA — User and Entity Behavior Analytics in Sentinel
-- 🧠 Threat Hunting program with formal hypothesis-driven methodology
+- 🧭 **Unified SecOps Lab (SC-200)** — Sentinel + Defender XDR end to end: AMA/DCR ingestion, data lake, MITRE-mapped detections as code with CI validation, Defender for Endpoint response, BEC investigation, advanced hunting
+- ☁️ **Multi-cloud detection** — AWS (CloudTrail, GuardDuty) and GCP (Cloud Audit Logs) into Microsoft Sentinel, tested with attack simulation
+- 🔗 **Identity threat correlation** — following one identity across Entra ID → AWS → GCP in KQL
+- 🔎 UEBA and a hypothesis-driven threat hunting program in Sentinel
 
 -----
 
 ## Education
 
-🎓 **M.S. Information Technology Management / Cybersecurity**
+🎓 **Master of Information Technology Management**, with distinction (2026) — Keller Graduate School of Management, DeVry University
 🎓 **B.B.A. Business Administration & Marketing**
 
-**Certifications — Next targets:** `CompTIA Security+`  |  `Microsoft SC-200`  |  `AZ-500`
+**Certifications:** ✅ `Microsoft AZ-900`  |  🟡 `Microsoft SC-200` (in progress)  |  ⏭️ `Microsoft SC-300` (next)  |  Later: `AZ-500`, `CompTIA Security+`
 
 -----
 
