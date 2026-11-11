@@ -112,7 +112,7 @@ AI-assisted malware analysis environment for static and behavioral analysis of s
 
 ## Currently Building
 
-- 🧭 **Unified SecOps Lab (SC-200)** — Sentinel + Defender XDR end to end: AMA/DCR ingestion, data lake, MITRE-mapped detections as code with CI validation, Defender for Endpoint response, BEC investigation, advanced hunting
+- 🧭 **[Unified SecOps Lab (SC-200)](https://github.com/mataleon/unified-secops-lab)** — Sentinel + Defender XDR end to end: AMA/DCR ingestion, data lake, MITRE-mapped detections as code with CI validation, Defender for Endpoint response, BEC investigation, advanced hunting
 - ☁️ **Multi-cloud detection** — AWS (CloudTrail, GuardDuty) and GCP (Cloud Audit Logs) into Microsoft Sentinel, tested with attack simulation
 - 🔗 **Identity threat correlation** — following one identity across Entra ID → AWS → GCP in KQL
 - 🔎 UEBA and a hypothesis-driven threat hunting program in Sentinel
